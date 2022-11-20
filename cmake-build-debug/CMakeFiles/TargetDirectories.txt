@@ -1,0 +1,3 @@
+/Users/jeff/Desktop/C++ Pratices/Sample-Assignment-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeff/Desktop/C++ Pratices/Sample-Assignment-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeff/Desktop/C++ Pratices/Sample-Assignment-2/cmake-build-debug/CMakeFiles/Sample_Assignment_2.dir
